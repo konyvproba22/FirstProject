@@ -16,7 +16,7 @@ namespace HelloGit
             }
             else
             {
-                Console.WriteLine("Hello Git!");
+                Console.WriteLine("Hello Git from SourceTree!");
             }
         }
     }
